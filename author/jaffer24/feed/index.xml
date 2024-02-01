@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jaffer24 &#8211; Ghannam Hotel</title>
+	<atom:link href="https://engineerjafar.github.io/wordpress_site/author/jaffer24/feed/" rel="self" type="application/rss+xml" />
+	<link>https://engineerjafar.github.io/wordpress_site</link>
+	<description>فندق فاخر للعائلات بالرياض</description>
+	<lastBuildDate>Sat, 20 Jan 2024 23:26:10 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://engineerjafar.github.io/wordpress_site/wp-content/uploads/2024/01/8rzPuj-LogoMakr.png</url>
+	<title>jaffer24 &#8211; Ghannam Hotel</title>
+	<link>https://engineerjafar.github.io/wordpress_site</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>افضل 7 مطاعم بالرياض</title>
+		<link>https://engineerjafar.github.io/wordpress_site/%d8%a7%d9%81%d8%b6%d9%84-7-%d9%85%d8%b7%d8%a7%d8%b9%d9%85-%d8%a8%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6/</link>
+					<comments>https://engineerjafar.github.io/wordpress_site/%d8%a7%d9%81%d8%b6%d9%84-7-%d9%85%d8%b7%d8%a7%d8%b9%d9%85-%d8%a8%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6/#respond</comments>
+		
+		<dc:creator><![CDATA[jaffer24]]></dc:creator>
+		<pubDate>Sat, 20 Jan 2024 23:26:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://engineerjafar.github.io/wordpress_site/?p=1252</guid>
+
+					<description><![CDATA[1 مطعم زعفران …2 مطعم ميازو …3 مطعم لوسين …4 مطعم الرومنسية …5 مطعم بي تي برجر …6 مطعم تو ايه دو اميتشي …7 مطعم اوف وايت]]></description>
+										<content:encoded><![CDATA[
+<p>1 مطعم زعفران …<br>2 مطعم ميازو …<br>3 مطعم لوسين …<br>4 مطعم الرومنسية …<br>5 مطعم بي تي برجر …<br>6 مطعم تو ايه دو اميتشي …<br>7 مطعم اوف وايت</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://engineerjafar.github.io/wordpress_site/%d8%a7%d9%81%d8%b6%d9%84-7-%d9%85%d8%b7%d8%a7%d8%b9%d9%85-%d8%a8%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
